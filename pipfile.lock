@@ -1,0 +1,44 @@
+{
+    "_meta": {
+        "hash": {
+            "sha256": "dummyhashforgruyere"
+        },
+        "pipfile-spec": 6,
+        "requires": {
+            "python_version": "2.7"
+        }
+    },
+    "default": {
+        "flask": {
+            "version": "==0.10.1",
+            "hashes": [
+                "sha256:7e3a5f2b9c86a3c5d53d7f6b1c7b91b2c7c6a3f6b8e5d3f7a1b9f3a5c6d7e8f9"
+            ]
+        },
+        "werkzeug": {
+            "version": "==0.9.6",
+            "hashes": [
+                "sha256:2f8b7d6c5a3b4e5d6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e"
+            ]
+        },
+        "jinja2": {
+            "version": "==2.7.3",
+            "hashes": [
+                "sha256:1a2b3c4d5e6f7a8b9c0d1e2f3a4b5c6d7e8f9a0b1c2d3e4f5a6b7c8d9e0f1a2b"
+            ]
+        },
+        "markupsafe": {
+            "version": "==0.18",
+            "hashes": [
+                "sha256:abcdefabcdefabcdefabcdefabcdefabcdefabcdefabcdefabcdefabcdefabcd"
+            ]
+        },
+        "itsdangerous": {
+            "version": "==0.24",
+            "hashes": [
+                "sha256:1234567890abcdef1234567890abcdef1234567890abcdef1234567890abcdef"
+            ]
+        }
+    },
+    "develop": {}
+}
